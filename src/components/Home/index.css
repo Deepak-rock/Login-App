@@ -1,1 +1,24 @@
 /* Write your CSS here */
+* {
+    margin: 0;
+  }
+  .bg-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    min-height: 100vh;
+    padding: 50px;
+  }
+  .content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#2b2c49, #b5b9ff);
+    min-height: 60vh;
+    min-width: 60%;
+    border-radius: 20px;
+  }
+  

@@ -1,1 +1,10 @@
 /* Write your CSS here */
+.heading {
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
